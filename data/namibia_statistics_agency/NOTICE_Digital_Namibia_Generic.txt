@@ -1,0 +1,53 @@
+NOTICE — Data Source & Attribution (Namibia Statistics Agency / Digital Namibia)
+===============================================================================
+File: NOTICE_Digital_Namibia_Generic.txt
+Version: 1.0
+Date: 2025-11-07
+
+PURPOSE
+-------
+This notice accompanies spatial data downloaded from the Namibia Statistics Agency
+(NSA) Digital Namibia portal. It provides context on attribution, reuse, and licensing
+status as understood from publicly available NSA and NSDI policy documents.
+
+SOURCE
+------
+Publisher: Namibia Statistics Agency (NSA)
+Portal: Digital Namibia (https://digitalnamibia.nsa.org.na/)
+Agency Website: https://nsa.org.na/
+Contact: nsdi@nsa.org.na ; info@nsa.org.na
+
+RECOMMENDED ATTRIBUTION
+-----------------------
+If you use, display, or analyse this data, include the following attribution:
+  “Source: Namibia Statistics Agency (NSA) — Digital Namibia portal (accessed 2025-11-07).”
+
+REUSE & LICENSING STATUS
+------------------------
+• As of 2025-11-07, the Digital Namibia portal and the NSA website do not publish an explicit
+  open-data licence (e.g., Creative Commons or Open Government Licence).
+• The NSA’s NSDI Policy specifies that spatial data custodians must protect State
+  copyright and define reuse terms through licensing agreements.
+• Therefore, redistribution, republishing, or commercial reuse of this data may require
+  written permission from NSA or the relevant custodian.
+• This dataset is shared for informational, academic, or interoperability purposes only.
+  No claim of open or unrestricted licence is implied.
+
+DISCLAIMER
+----------
+This notice does not represent an official position of the Namibia Statistics Agency.
+Original data © Namibia Statistics Agency (NSA). Any modifications, re‑projection, or
+re‑packaging of the data are the responsibility of the person or organisation that
+redistributes this copy.
+
+If NSA later publishes an explicit licence or attribution requirement, this notice
+should be updated accordingly to reflect those terms.
+
+CONTACT FOR CLARIFICATION
+--------------------------
+Namibia Statistics Agency (NSA)
+Department of GIS & NSDI Coordination
+FGI House, 44 Post Street Mall, Windhoek
+Tel: +264 (61) 431 3200
+Email: nsdi@nsa.org.na / info@nsa.org.na
+Website: https://nsa.org.na/
